@@ -6,7 +6,7 @@ export default function Analytic() {
   return (
     <div className='w-full bg-white py-16 p-4'>
 
-      <div className='max-w-[95%] gap-5 mx-auto grid md:grid-cols-2'>
+      <div className='max-w-[90%] gap-5 mx-auto grid md:grid-cols-2'>
     <img className='w-[450px] mx-auto my-4 max-md:w-[400px]' src={Laptop} alt='/' />
 
     <div className='flex flex-col justify-center items-center'>
