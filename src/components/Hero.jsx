@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <div className='text-white'>
 
-<div className='max-w-[95%] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
+<div className='bg-gradient-to-r from-cyan-800 to-green-800 max-full mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
         <p className='text-[#00df9a] font-bold p-2 uppercase'>
           Growing with data analytics
         </p>

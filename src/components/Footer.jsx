@@ -10,14 +10,18 @@ import {
 
 export default function Footer() {
   return (
-    <div className="w-full text-white">
+    <div className="bg-gradient-to-r from-cyan-800 to-green-800 w-full text-white pt-8">
       <div className="w-[90%] m-auto mt-5">
         <div>
-          <h1 className="w-full text-3xl font-bold text-[#00df9a]">REACT.</h1>
+          <h1 className="w-full text-3xl font-bold text-[#00df9a] py-8">OPL</h1>
           <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id odit
             ullam iste repellat odit ullam iste repellat consequatur libero
-            reiciendis, blanditiis accusantium.
+            reiciendis, blanditiis accusantium  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id odit
+            ullam iste repellat odit ullam iste repellat consequatur libero
+            reiciendis, blanditiis accusantium  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id odit
+            ullam iste repellat odit ullam iste repellat consequatur libero
+            reiciendis, blanditiis accusantium
           </p>
         </div>
 

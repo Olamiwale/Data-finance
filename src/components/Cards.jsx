@@ -45,7 +45,7 @@ export default function Cards() {
           </button>
         </div>
 
-        <div className="w-full shadow-xl flex flex-col p-4      rounded-lg hover:scale-105 duration-300 border max-md:w-[50%] m-auto mt-[70px]">
+        <div className="w-full shadow-xl flex flex-col p-4 rounded-lg hover:scale-105 duration-300 border max-md:w-[50%] m-auto mt-[70px]">
           <img
             className="w-20 mx-auto mt-[-3rem] bg-white"
             src={Triple}
