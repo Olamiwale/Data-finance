@@ -10,7 +10,7 @@ export default function Navbar() {
   };
 
   return (
-    <div className=" bg-black/60 fixed top-0 left-0 right-0 flex justify-between w-full px-[100px] max-sm:px-8 mx-auto items-center p-4">
+    <div className=" bg-black fixed top-0 left-0 right-0 flex justify-between w-full px-[100px] max-sm:px-8 mx-auto items-center p-4">
       
 
 
@@ -34,7 +34,7 @@ export default function Navbar() {
             : " w-[35%] ease-in-out top-[-1000px] right-0 duration-100 absolute md:hidden"
         }
       >
-        <li className="bg-black text-white p-8 pt-[50%] border-b border-gray-600 ">Home</li>
+        <li className=" text-white p-8 pt-[50%] border-b border-gray-600 ">Home</li>
         <li className="bg-black text-white p-8 border-b border-gray-600">Company</li>
         <li className="bg-black text-white p-8 border-b border-gray-600">Resources</li>
         <li className="bg-black text-white p-8 border-b border-gray-600">About</li>
